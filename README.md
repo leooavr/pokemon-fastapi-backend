@@ -1,6 +1,9 @@
-<img src="">
-# Pokemon FastAPI
+<p align="center">
+  <img src="https://raw.githubusercontent.com/leooavr/pokemon-fastapi-backend/development/img/fastapi.png" />
+</p
 
+#
+#  Pokemon FastAPI
 ## Bienvenido a mi backend simulando la captura de pokemons
 
 En el proyecto actual se utilizaron las siguientes tecnologías:
